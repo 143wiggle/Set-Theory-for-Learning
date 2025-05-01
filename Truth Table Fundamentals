@@ -1,0 +1,66 @@
+Mastering Propositional Logic & Truth Tables
+Complete Beginner-to-Application Roadmap
+
+✅ 1. Learn the Basic Logical Operators
+These are essential to all logical expressions:
+
+Symbol	Name	Meaning
+∧	Conjunction	AND — True if both are True
+∨	Disjunction	OR — True if at least one is True
+¬	Negation	NOT — Reverses truth value
+⊕	Exclusive OR	XOR — True if only one is True
+→	Implication	IF P THEN Q — False only if P is True and Q is False
+↔	Bi-conditional	IF AND ONLY IF — True if both are same
+
+🔍 Search on YouTube:
+Logical operators explained with truth tables (5–15 mins)
+
+✅ 2. Build & Practice Truth Tables
+Start from simple to complex:
+
+¬P (Negation)
+
+P ∧ Q (Conjunction)
+
+P ∨ Q (Disjunction)
+
+(P → Q), (P ↔ Q), (P ⊕ Q) — Conditionals and beyond
+
+Then: ((P → Q) ∧ (¬R ∨ Q))
+
+🔍 Search:
+How to make truth tables for compound statements
+
+✅ 3. Master Negation & De Morgan’s Laws
+These allow logical statement transformation:
+
+¬(P ∧ Q) ≡ ¬P ∨ ¬Q
+
+¬(P ∨ Q) ≡ ¬P ∧ ¬Q
+
+🔍 Search:
+Negation of statements and De Morgan's laws
+
+✅ 4. Understand Implications & Bi-Conditionals
+(P → Q) is false only when P is true and Q is false.
+
+(P ↔ Q) is true when P and Q match.
+
+🔍 Search:
+Truth table for implication and biconditional
+
+✅ 5. Translate Natural Language to Logic
+Convert English statements to symbolic form:
+
+"If it rains, then the ground is wet" → P → Q
+
+"You will pass only if you study" → P → Q
+
+🔍 Search:
+Translate English to propositional logic
+
+✅ 6. Apply to Complex Statements
+Now you’re ready for truth tables like:
+(P → Q) ∧ [(Q ∧ ¬R) → (P ∨ R)]
+
+Break into parts → Make table → Solve step-by-step
