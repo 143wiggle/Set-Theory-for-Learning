@@ -5,7 +5,7 @@ def conjunction():
     
     # Checking the conjunction (both must have tickets)
     if you_have_ticket and friend_have_ticket:
-        print("Both of you have tickets! It is a conjunction!")
+        print("Both of you have tickets! It is a conjunction (∧)!")
     else:
         print("One or both of you don't have tickets. It is not a conjunction.")
 
